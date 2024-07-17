@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rust Studying
 
 This is my first repo for trying out rust.
